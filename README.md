@@ -1,2 +1,4 @@
-# ud036_StarterCode
-Source code for a Movie Trailer website.
+# Movie Website Project
+This project takes user created variables in **.py** and generates a local webpage.
+
+
