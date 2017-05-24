@@ -4,7 +4,7 @@ silver_linigs_playbook = media.Movie("Silver Linings Playbook",
 					"After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.",
  					"https://www.youtube.com/watch?v=Lj5_FhLaaQQ",
                      			"https://upload.wikimedia.org/wikipedia/en/9/9a/Silver_Linings_Playbook_Poster.jpg")
-#print(silver_linigs_playbook.storyline)
+
 the_dark_knight = media.Movie("The Dark Knight",
 				"When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the Dark Knight must come to terms with one of the greatest psychological tests of his ability to fight injustice.",
  				"https://www.youtube.com/watch?v=EXeTwQWrcwY",
