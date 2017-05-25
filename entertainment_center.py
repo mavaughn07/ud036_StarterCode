@@ -1,6 +1,7 @@
 import media
 import fresh_tomatoes
 
+#Six movies created below following the structure (title, storyline, youtube_url, poster_image_url)
 silver_linigs_playbook = media.Movie("Silver Linings Playbook", "After a stint "
                                      "in a mental institution, former teacher "
                                      "Pat Solitano moves back in with his "
@@ -45,6 +46,7 @@ the_departed = media.Movie("The Departed", "An undercover cop and a mole in the"
                            "https://www.youtube.com/watch?v=iojhqm0JTW4",
                            "https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg")
 
+#array created below to send to webpage generation
 movies = [silver_linigs_playbook, the_dark_knight, interstellar,
           back_to_the_future, gladiator, the_departed]
 
