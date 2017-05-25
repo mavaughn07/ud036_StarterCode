@@ -46,6 +46,6 @@ the_departed = media.Movie("The Departed", "An undercover cop and a mole in the"
                            "https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg")
 
 movies = [silver_linigs_playbook, the_dark_knight, interstellar,
-			back_to_the_future, gladiator, the_departed]
+          back_to_the_future, gladiator, the_departed]
 
 fresh_tomatoes.open_movies_page(movies)
